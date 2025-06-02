@@ -85,7 +85,7 @@
     "@rollup/plugin-typescript": "^11.1.6",
     "@stackblitz/sdk": "^1.9.0",
     "@storybook/addon-a11y": "^7.6.17",
-    "@storybook/addon-actions": "^7.6.17",
+    "@storybook/addon-actions": "^9.0.0",
     "@storybook/addon-docs": "^7.6.17",
     "@storybook/addon-knobs": "^7.0.2",
     "@storybook/addon-links": "^7.6.17",
