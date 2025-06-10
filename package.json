@@ -138,7 +138,7 @@
     "storybook": "^7.6.17",
     "storybook-addon-web-components-knobs": "^0.3.20",
     "storybook-version": "^0.1.1",
-    "stylelint": "^15.11.0",
+    "stylelint": "^16.13.0",
     "stylelint-config-prettier-scss": "^0.0.1",
     "stylelint-config-standard-scss": "^9.0.0",
     "stylelint-copyright": "^3.1.1",
