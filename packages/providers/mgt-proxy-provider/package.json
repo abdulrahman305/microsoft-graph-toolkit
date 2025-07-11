@@ -41,7 +41,7 @@
     "./src/index.ts"
   ],
   "dependencies": {
-    "@microsoft/mgt-element": "*",
+    "@microsoft/mgt-element": "3.0.0",
     "@microsoft/microsoft-graph-client": "3.0.2"
   },
   "publishConfig": {
