@@ -43,7 +43,7 @@
   "sideEffects": false,
   "dependencies": {
     "@azure/msal-node": "^1.18.4",
-    "@microsoft/mgt-element": "*",
+    "@microsoft/mgt-element": "3.0.0",
     "@microsoft/microsoft-graph-client": "3.0.2"
   },
   "peerDependencies": {
