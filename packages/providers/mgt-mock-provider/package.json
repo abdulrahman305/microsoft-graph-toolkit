@@ -42,7 +42,7 @@
     "./src/index.ts"
   ],
   "dependencies": {
-    "@microsoft/mgt-element": "*"
+    "@microsoft/mgt-element": "3.0.0"
   },
   "publishConfig": {
     "directory": "dist"
