@@ -42,7 +42,7 @@
   "sideEffects": false,
   "dependencies": {
     "@azure/core-auth": "^1.7.2",
-    "@microsoft/mgt-element": "*"
+    "@microsoft/mgt-element": "3.0.0"
   },
   "publishConfig": {
     "directory": "dist"
