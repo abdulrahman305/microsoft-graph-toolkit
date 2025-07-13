@@ -40,11 +40,11 @@
   "sideEffects": false,
   "dependencies": {
     "@microsoft/mgt-components": "*",
-    "@microsoft/mgt-element": "*",
+    "@microsoft/mgt-element": "3.0.0",
     "@microsoft/mgt-mock-provider": "*",
     "@microsoft/mgt-msal2-provider": "*",
     "@microsoft/mgt-proxy-provider": "*",
-    "@microsoft/mgt-sharepoint-provider": "*"
+    "@microsoft/mgt-sharepoint-provider": "3.0.0"
   },
   "devDependencies": {
     "@webcomponents/webcomponentsjs": "^2.8.0"
