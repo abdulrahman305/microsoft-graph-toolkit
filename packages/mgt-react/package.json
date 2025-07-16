@@ -35,8 +35,8 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@microsoft/mgt-components": "*",
-    "@microsoft/mgt-element": "*",
+    "@microsoft/mgt-components": "3.0.0",
+    "@microsoft/mgt-element": "3.0.0",
     "@microsoft/microsoft-graph-types": "^2.40.0",
     "@microsoft/microsoft-graph-types-beta": "^0.43.0-preview",
     "wc-react": "^0.5.1"
